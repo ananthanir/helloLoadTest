@@ -3,7 +3,7 @@ import http from 'k6/http'
 export let options = {
     insecureSkipTLSVerify: true,
     noConnectionReuse: false,
-    vuse: 1,
+    vus: 2,
     duration: '3s'
 }
 

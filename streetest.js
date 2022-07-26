@@ -14,7 +14,7 @@ export let options = {
         {duration: '5m', target: 400},
         {duration: '10m', target: 0},
     ],
-    // vuse: 1,
+    // vus: 1,
     // duration: '10s'
 }
 
